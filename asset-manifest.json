@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GOL-game-of-life/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/GOL-game-of-life/static/js/main.2ff92bcb.chunk.js",
+    "main.js.map": "/GOL-game-of-life/static/js/main.2ff92bcb.chunk.js.map",
+    "runtime-main.js": "/GOL-game-of-life/static/js/runtime-main.d47e7c04.js",
+    "runtime-main.js.map": "/GOL-game-of-life/static/js/runtime-main.d47e7c04.js.map",
+    "static/js/2.5ae7e007.chunk.js": "/GOL-game-of-life/static/js/2.5ae7e007.chunk.js",
+    "static/js/2.5ae7e007.chunk.js.map": "/GOL-game-of-life/static/js/2.5ae7e007.chunk.js.map",
+    "index.html": "/GOL-game-of-life/index.html",
+    "precache-manifest.3d747d049da6446ca188c08c077e4b8e.js": "/GOL-game-of-life/precache-manifest.3d747d049da6446ca188c08c077e4b8e.js",
+    "service-worker.js": "/GOL-game-of-life/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/GOL-game-of-life/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5ae7e007.chunk.js.LICENSE.txt": "/GOL-game-of-life/static/js/2.5ae7e007.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d47e7c04.js",
+    "static/js/2.5ae7e007.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2ff92bcb.chunk.js"
+  ]
+}
